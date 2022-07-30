@@ -23,7 +23,6 @@ function century(year) {
       count++;
     }
   }
-
   return count;
 }
 
