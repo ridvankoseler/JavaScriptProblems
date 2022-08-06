@@ -1,0 +1,14 @@
+<!-- Merge two sorted arrays into one
+You are given two sorted arrays that both only contain integers. Your task is to find a way to merge them into a single one, sorted in asc order. Complete the function mergeArrays(arr1, arr2), where arr1 and arr2 are the original sorted arrays.
+
+You don't need to worry about validation, since arr1 and arr2 must be arrays with 0 or more Integers. If both arr1 and arr2 are empty, then just return an empty array.
+
+Note: arr1 and arr2 may be sorted in different orders. Also arr1 and arr2 may have same integers. Remove duplicated in the returned result.
+
+İki sıralanmış diziyi tek bir dizide birleştir
+Size her ikisi de yalnızca tamsayı içeren iki sıralı dizi verilir. Göreviniz, bunları artan sırayla sıralanmış tek bir tanede birleştirmenin bir yolunu bulmak. arr1 ve arr2'nin orijinal sıralanmış diziler olduğu mergeArrays(arr1, arr2) işlevini tamamlayın.
+
+arr1 ve arr2, 0 veya daha fazla Tamsayı içeren diziler olması gerektiğinden, doğrulama konusunda endişelenmenize gerek yoktur. Hem arr1 hem de arr2 boşsa, boş bir dizi döndürmeniz yeterlidir.
+
+Not: arr1 ve arr2 farklı düzenlerde sıralanabilir. Ayrıca arr1 ve arr2 aynı tamsayılara sahip olabilir. Döndürülen sonuçta yinelenenleri kaldırın. -->
+
